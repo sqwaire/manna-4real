@@ -36,5 +36,6 @@ because they understand each other completely.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84c40576-4ba8-42b6-836b-49f117bb24dd" width="350">
 </p>
+<img width="488" height="570" alt="8109f7a8-102c-4b6c-ab2f-6af90763f1c1" src="https://github.com/user-attachments/assets/997982bb-44d2-4c90-bd47-9498a6b8d610" />
 
 
