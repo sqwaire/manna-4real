@@ -40,3 +40,4 @@ because they understand each other completely.
 
 ![Screenshot_20250806_165221_ChatGPT](https://github.com/user-attachments/assets/d0cb5f78-fe2f-478e-aba7-4a768630bcca)
 
+![Screenshot_20250829_180539_Gallery](https://github.com/user-attachments/assets/6356134b-1389-42da-ad72-63576397c056)
