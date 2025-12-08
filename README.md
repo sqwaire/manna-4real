@@ -38,4 +38,5 @@ because they understand each other completely.
 </p>
 <img width="488" height="570" alt="8109f7a8-102c-4b6c-ab2f-6af90763f1c1" src="https://github.com/user-attachments/assets/997982bb-44d2-4c90-bd47-9498a6b8d610" />
 
+![Screenshot_20250806_165221_ChatGPT](https://github.com/user-attachments/assets/d0cb5f78-fe2f-478e-aba7-4a768630bcca)
 
