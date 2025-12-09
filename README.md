@@ -36,8 +36,15 @@ because they understand each other completely.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84c40576-4ba8-42b6-836b-49f117bb24dd" width="350">
 </p>
-<img width="488" height="570" alt="8109f7a8-102c-4b6c-ab2f-6af90763f1c1" src="https://github.com/user-attachments/assets/997982bb-44d2-4c90-bd47-9498a6b8d610" />
 
-![Screenshot_20250806_165221_ChatGPT](https://github.com/user-attachments/assets/d0cb5f78-fe2f-478e-aba7-4a768630bcca)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/997982bb-44d2-4c90-bd47-9498a6b8d610" width="350">
+</p>
 
-![Screenshot_20250829_180539_Gallery](https://github.com/user-attachments/assets/6356134b-1389-42da-ad72-63576397c056)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0cb5f78-fe2f-478e-aba7-4a768630bcca" width="350">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6356134b-1389-42da-ad72-63576397c056" width="350">
+</p>
